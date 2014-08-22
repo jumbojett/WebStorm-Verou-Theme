@@ -8,7 +8,7 @@ A tribute to Lea Verou's PrismJS's default color theme
 Color scheme( **JS focused** ) for new JetBrains products ( *IntelliJ IDEA, PHPStorm, WebStorm* )
 
 ---
-![screenshot](http://i.imgur.com/v8QoiXLl.png)
+![screenshot](http://i.imgur.com/v8QoiXL.png)
 ---
 
 # Mac Installation
