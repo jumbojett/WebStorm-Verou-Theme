@@ -1,7 +1,7 @@
 WebStorm-Verou-Theme
 ====================
 
-A tribute to Lea Verou's PrismJS's default color theme
+A tribute to the PrismJS default color theme
 
 # Information
 
